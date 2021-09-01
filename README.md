@@ -7,6 +7,8 @@ Mungkin masih ada yang belum diubah dan diterjemahkan atau mungkin ada kesalahan
 
 ### Untuk Indtroduction, changelog, dan tips bisa dilihat di [sini](dist/README.md)
 
+### Screenshot -> [sini](https://i.im.ge/2021/09/01/Q10mUT.jpg)
+
 ## Cara Konfigurasi
 Buka file [template-indonesia.js](./template-indonesia.js), lalu ubah variable sesuai pentunjuknya.
 ```javascript
