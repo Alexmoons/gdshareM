@@ -26,4 +26,4 @@ const CONFIG = {
     }
 }
 ```
-Setelah mengubah variabel, lalu salin dan tempel seluruh isi yang ada di `template-indonesia.js`  ke [Cloudflara Workers](https://workers.cloudflare.com/). Silahkan lihat referensi di [sini](https://www.jiyiblog.com/archives/031279.html)
+Setelah mengubah variabel, lalu salin dan tempel seluruh isi yang ada di `template-indonesia.js`  ke [Cloudflare Workers](https://workers.cloudflare.com/). Silahkan lihat referensi di [sini](https://www.jiyiblog.com/archives/031279.html)
