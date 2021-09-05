@@ -28,4 +28,4 @@ const CONFIG = {
     }
 }
 ```
-Setelah mengubah variabel, lalu salin dan tempel seluruh isi yang ada di `template-indonesia.js`  ke [Cloudflare Workers](https://workers.cloudflare.com/).  Jika mau menggunakan versi yang menampilakn shared drive dan link google drive bisa salin seluruh isi yang ada di [template-indonesia2.js](./template-indonesia2.js). Silahkan lihat referensi di [sini](https://www.jiyiblog.com/archives/031279.html)
+Setelah mengubah variabel, lalu salin dan tempel seluruh isi yang ada di `template-indonesia.js`  ke [Cloudflare Workers](https://workers.cloudflare.com/).  Jika mau menggunakan versi yang menampilakn shared drive dan link google drive bisa salin seluruh isi yang ada di `template-indonesia2.js` [template-indonesia2.js](./template-indonesia2.js). Silahkan lihat referensi di [sini](https://www.jiyiblog.com/archives/031279.html)
